@@ -1,12 +1,29 @@
-- 👋 Hi, I’m @softboyai
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning business information technology
-- 💞️ I’m looking to collaborate on chatbot application
-- 📫 How to reach me , whatsapp +250787878745, facebook https://www.facebook.com/profile.php?id=100025356763694&ref=xav_ig_profile_web, instagram  https://www.instagram.com/softboy250/?hl=en
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Here’s an updated version of your README based on your skills and projects:
 
-<!---
-softboyai/softboyai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+#Kamanzi Jean marie vianney - Web Developer
+
+Welcome to my GitHub! I’m a web developer with experience in both front-end and back-end technologies. I specialize in HTML, CSS, JavaScript, Python, and frameworks like Flask and React. I enjoy building functional, user-friendly web applications and am always eager to learn and grow.
+
+## 🔧 Technologies & Tools
+- **Languages:** HTML, CSS, JavaScript, Python
+- **Frameworks:** Flask, React
+- **Tools:** Git, GitHub, Visual Studio Code
+
+## 🚀 Projects
+Here are a few projects I’ve worked on:
+- **eCommerce Platform** - A fully functional eCommerce platform with features like user authentication, product management, and secure checkout.
+- **Recipe Finder App** - An app that helps users find recipes based on ingredients they have at home.
+- **Imanzi AI Solutions Website** - A website for my AI agency, showcasing services related to AI chatbots, agents, and solutions.
+- **Portfolio Website** - A personal website that highlights my skills, projects, and accomplishments.
+
+## 🌱 I'm currently learning
+- Enhancing my Python and React skills.
+
+## 📫 Get in Touch
+Feel free to check out my projects, and reach out if you want to collaborate or have any questions!
+
+---
+
+This README reflects your skills, projects, and current learning focus. Let me know if you'd like to tweak anything!
