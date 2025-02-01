@@ -22,8 +22,4 @@ Here are a few projects I’ve worked on:
 - Enhancing my Python and React skills.
 
 ## 📫 Get in Touch
-Feel free to check out my projects, and reach out if you want to collaborate or have any questions!
-
----
-
-This README reflects your skills, projects, and current learning focus. Let me know if you'd like to tweak anything!
+Feel free to check out my projects, and reach out if you want to collaborate or have any questions
