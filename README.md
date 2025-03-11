@@ -5,7 +5,7 @@ I'm Kamanzi Jean marie vianney - Web Developer
 Welcome to my GitHub! I’m a web developer with experience in both front-end and back-end technologies. I specialize in HTML, CSS, JavaScript, Python, and frameworks like Flask and React. I enjoy building functional, user-friendly web applications and am always eager to learn and grow.
 
 ## 🔧 Technologies & Tools
-- **Languages:** HTML, CSS, JavaScript, Python
+- **Languages:** HTML, CSS, JavaScript,React.js, PHP,  Python
 - **Frameworks:** Flask, React
 - **Tools:** Git, GitHub, Visual Studio Code
 
